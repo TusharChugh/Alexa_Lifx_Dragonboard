@@ -34,6 +34,7 @@ Intergrated Alexa and Lifx bulb
 9. Handler: dragonboard.lambda_handler
 10. Create rule (lambda_basic_execution)
 11. Next -> Complete Function
+12. In dragonboard.py paste the token obtained from Lifx
 
 #Set up Alexa skills Kit
 1. Go to https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit
