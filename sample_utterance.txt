@@ -1,0 +1,8 @@
+ChangeColorEmotion I am {Emotion} {Color}
+ChangeColorEmotion I'm {Emotion} {Color}
+
+ChangeColorRequest {Request} the color to {Color}
+ChangeColorRequest {Request} to {Color}
+ChangeColorRequest {Request} to {Color} color
+
+ChangeState {Request} {State}

@@ -1,0 +1,53 @@
+{
+  "intents": [
+     {
+      "intent": "ChangeColorEmotion",
+      "slots": [
+        {
+          "name": "Emotion",
+          "type": "LIST_OF_EMOTIONS"
+        },
+        {
+          "name": "Color",
+          "type": "LIST_OF_COLORS"
+        }
+       ]
+    },
+    {
+      "intent": "ChangeColorRequest",
+      "slots": [
+        {
+          "name": "Color",
+          "type": "LIST_OF_COLORS"
+        },
+        {
+          "name": "Request",
+          "type": "LIST_OF_REQUESTS"
+        }
+       ]
+    },
+    
+    {
+      "intent": "ChangeState",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        },
+        {
+          "name": "Request",
+          "type": "LIST_OF_REQUESTS"
+        }
+       ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+      ]
+}
