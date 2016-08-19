@@ -7,7 +7,7 @@ from __future__ import print_function
 import requests
 import json
 
-token = "c6760aad6568e3ed26b59535a20ce9cf5f2ea3d809e1323e473f4a8f644bbb5e"
+token = "Your Token Here"
 
 headers = {
     "Authorization": "Bearer %s" % token,
